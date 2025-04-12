@@ -1,0 +1,3 @@
+export const REPOSITORY_KEYS = {
+    DATA_SOURCE: 'DATA_SOURCE',
+}
