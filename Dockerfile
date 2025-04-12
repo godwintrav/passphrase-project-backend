@@ -1,5 +1,5 @@
 # Use the official Node.js image as a parent image
-FROM node:18
+FROM node:23-slim
 
 WORKDIR /usr/app
 
